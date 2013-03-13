@@ -6,5 +6,5 @@ and then call the run() function in highrise.py
 
 Dependencies
 ---------------
-sudo pip install geopy pyrise
+sudo pip install -r requirements.txt
 
